@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSVGeEpv6WEb/wzq0GsMkWFR1T/h/+6my1t8WQptPD5ZBNR6igwGox548iZGfrhvwI52taLRPUZSe4Wxmun8sA==",
+  "success": true,
+  "projectFilePath": "F:\\listabrasil\\listabrasil\\listabrasil\\listabrasil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fábio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fábio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Fábio\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Fábio\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Fábio\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Fábio\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

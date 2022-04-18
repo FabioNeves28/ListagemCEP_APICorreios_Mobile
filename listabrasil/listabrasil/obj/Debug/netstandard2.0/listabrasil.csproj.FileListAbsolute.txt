@@ -1,0 +1,16 @@
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\bin\Debug\netstandard2.0\listabrasil.deps.json
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\bin\Debug\netstandard2.0\listabrasil.dll
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\bin\Debug\netstandard2.0\ref\listabrasil.dll
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\bin\Debug\netstandard2.0\listabrasil.pdb
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\listabrasil.csprojAssemblyReference.cache
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\Estados.xaml.g.cs
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\Municipios.xaml.g.cs
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\listabrasil.AssemblyInfoInputs.cache
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\listabrasil.AssemblyInfo.cs
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\listabrasil.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\listabrasil.dll
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\ref\listabrasil.dll
+C:\Users\Fortec\source\repos\listabrasil\listabrasil\listabrasil\obj\Debug\netstandard2.0\listabrasil.pdb
